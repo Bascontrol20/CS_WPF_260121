@@ -1,0 +1,14 @@
+D:\WPF_260121\WpfLearn1\WpfLearn1\bin\Debug\WpfLearn1.exe.config
+D:\WPF_260121\WpfLearn1\WpfLearn1\bin\Debug\WpfLearn1.exe
+D:\WPF_260121\WpfLearn1\WpfLearn1\bin\Debug\WpfLearn1.pdb
+D:\WPF_260121\WpfLearn1\WpfLearn1\obj\Debug\MainWindow.g.cs
+D:\WPF_260121\WpfLearn1\WpfLearn1\obj\Debug\App.g.cs
+D:\WPF_260121\WpfLearn1\WpfLearn1\obj\Debug\WpfLearn1_MarkupCompile.cache
+D:\WPF_260121\WpfLearn1\WpfLearn1\obj\Debug\WpfLearn1_MarkupCompile.lref
+D:\WPF_260121\WpfLearn1\WpfLearn1\obj\Debug\MainWindow.baml
+D:\WPF_260121\WpfLearn1\WpfLearn1\obj\Debug\WpfLearn1.g.resources
+D:\WPF_260121\WpfLearn1\WpfLearn1\obj\Debug\WpfLearn1.Properties.Resources.resources
+D:\WPF_260121\WpfLearn1\WpfLearn1\obj\Debug\WpfLearn1.csproj.GenerateResource.cache
+D:\WPF_260121\WpfLearn1\WpfLearn1\obj\Debug\WpfLearn1.csproj.CoreCompileInputs.cache
+D:\WPF_260121\WpfLearn1\WpfLearn1\obj\Debug\WpfLearn1.exe
+D:\WPF_260121\WpfLearn1\WpfLearn1\obj\Debug\WpfLearn1.pdb
